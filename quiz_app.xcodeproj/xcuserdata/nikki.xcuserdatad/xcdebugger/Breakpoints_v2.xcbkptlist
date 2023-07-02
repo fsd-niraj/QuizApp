@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "80D81A36-3CE1-4615-B8D0-37F3A043AB6C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B6216C2-F999-4063-BE70-72888EFF077D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quiz_app/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1B6216C2-F999-4063-BE70-72888EFF077D - 6790908f1889468e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quiz_app.ViewController.adminButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "quiz_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikki/Desktop/Niraj_ios_assignments/quiz_app/quiz_app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "1B6216C2-F999-4063-BE70-72888EFF077D - 25f610d97b971e92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quiz_app.ViewController.adminButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "quiz_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikki/Desktop/Niraj_ios_assignments/quiz_app/quiz_app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "1B6216C2-F999-4063-BE70-72888EFF077D - 8ec0038a059e881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quiz_app.ViewController.adminButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "quiz_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikki/Desktop/Niraj_ios_assignments/quiz_app/quiz_app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1B6216C2-F999-4063-BE70-72888EFF077D - d0d98302837ee084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quiz_app.ViewController.adminButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "quiz_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikki/Desktop/Niraj_ios_assignments/quiz_app/quiz_app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "1B6216C2-F999-4063-BE70-72888EFF077D - 6b2503804cb916a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quiz_app.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; quiz_app.ViewController"
+                  moduleName = "quiz_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikki/Desktop/Niraj_ios_assignments/quiz_app/quiz_app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "1B6216C2-F999-4063-BE70-72888EFF077D - f52bc4d48f2ec043"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quiz_app.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;quiz_app.ViewController&gt;"
+                  moduleName = "quiz_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikki/Desktop/Niraj_ios_assignments/quiz_app/quiz_app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
